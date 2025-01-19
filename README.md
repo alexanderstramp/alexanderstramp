@@ -8,6 +8,6 @@ Tiago é um dedicado Analista de Dados apaixonado por transformar dados brutos e
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexanderstramp&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projetos
+### Linguagens utilizadas
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexanderstramp&repo=Portfolio.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderstramp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

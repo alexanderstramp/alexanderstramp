@@ -11,3 +11,4 @@ Tiago é um dedicado Analista de Dados apaixonado por transformar dados brutos e
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderstramp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+

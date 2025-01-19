@@ -2,7 +2,7 @@
 
 ###### Sobre o Tiago 
 
-Sou um dedicado Analista de Dados apaixonado por transformar dados brutos em insights acionáveis.
+Sou um dedicado Analista de Dados apaixonado por transformar dados brutos em insights valiosos.
 
 ### Detalhes
 
